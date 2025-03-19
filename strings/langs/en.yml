@@ -172,10 +172,10 @@ queue_4 : "<blockquote>➲ <b>Aᴅᴅᴇᴅ Tᴏ Qᴜᴇᴜᴇ Aᴛ #{0}\n\n �
 queue_5 : "𝖳𝗁𝖾𝗋𝖾'𝗌 𝖮𝗇𝗅𝗒 𝖮𝗇𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖳𝗋𝖺𝖼𝗄 𝖨𝗇 𝖯𝗅𝖺𝗒𝗅𝗂𝗌𝗍 .\n\n𝖠𝖽𝖽 𝖬𝗈𝗋𝖾 𝖳𝗋𝖺𝖼𝗄𝗌 𝖳𝗈 𝖢𝗁𝖾𝖼𝗄 𝖫𝗂𝗌𝗍 ."
 queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> 𝖴𝗇𝗄𝗇𝗈𝗐𝗇 𝖣𝗎𝗋𝖺𝗍𝗂𝗈𝗇 𝖲𝗍𝗋𝖾𝖺𝗆\n\n𝖢𝗅𝗂𝖼𝗄 𝖮𝗇 𝖳𝗁𝖾 𝖡𝗎𝗍𝗍𝗈𝗇 𝖡𝖾𝗅𝗈𝗐 𝖳𝗈 𝖦𝖾𝗍 𝖶𝗁𝗈𝗅𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖫𝗂𝗌𝗍 ."
 queue_7 : "\n𝖢𝗅𝗂𝖼𝗄 𝖮𝗇 𝖳𝗁𝖾 𝖡𝗎𝗍𝗍𝗈𝗇 𝖡𝖾𝗅𝗈𝗐 𝖳𝗈 𝖦𝖾𝗍 𝖶𝗁𝗈𝗅𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖫𝗂𝗌𝗍 ."
-queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n💞 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n💮 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🌼 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
+queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<blockquote><b>.° ༘🎧⋆🖇₊˚ෆ𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🪐༘ ˹ 𝗙 ɪ 𝙳 ʜ ⋏ 𝚾 𝗠 ʋ ʂ ɪ 𝛓 ˼ 🦋✧˚.🎀༘⋆</blockquote>\n\n<b><blockquote> 𝗧 ɪ ꭲ ꮮ 𝙴 :</b> <a href={0}>{1}</a>\n<b> 𝗗 ʋ ꮢ ꭺ ꭲ ɪ ɵ ɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b> 𝗥 ꭼ 𝚀 ʋ ꭼ ꮪ ꭲ 𝗕 ꮍ :</b> {3}</blockquote>\n\n<blockquote><b>❖ 𝗣 ꮎ ꮃ ꭼ ꭱ ꭼ ꭰ 𝗕 ꮍ : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
-stream_2 : "<blockquote><b>.° ༘🎧⋆🖇₊˚ෆ𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🪐༘ ˹ 𝗙 ɪ 𝙳 ʜ ⋏ 𝚾 𝗠 ʋ ʂ ɪ 𝛓 ˼ 🦋✧˚.🎀༘⋆</b></blockquote>\n\n<blockquote>☘ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>💝 𝗥 ꭼ 𝚀 ʋ ꭼ ꮪ ꭲ 𝗕 ꮍ :</b> {0}</blockquote>\n\n<blockquote><b>❖ 𝗣 ꮎ ꮃ ꭼ ꭱ ꭼ ꭰ 𝗕  : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
+stream_1 : "<blockquote><b>.° ༘⋆₊˚ෆ𓍢ִ໋₊˚*ੈ♡⸝⸝ ˹ 𝗙 ɪ 𝙳 ʜ ⋏ 𝚾 𝗠 ʋ ʂ ɪ 𝛓 ˼ ✧˚.⋆</blockquote>\n\n<b><blockquote> 𝗧 ɪ ꭲ ꮮ 𝙴 :</b> <a href={0}>{1}</a>\n<b> 𝗗 ʋ ꮢ ꭺ ꭲ ɪ ɵ ɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b> 𝗥 ꭼ 𝚀 ʋ ꭼ ꮪ ꭲ 𝗕 ꮍ :</b> {3}</blockquote>\n\n<blockquote><b>❖ 𝗣 ꮎ ꮃ ꭼ ꭱ ꭼ ꭰ 𝗕 ꮍ : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
+stream_2 : "<blockquote><b>.° ༘⋆₊˚ෆ𓍢ִ໋₊˚*ੈ♡⸝⸝ ˹ 𝗙 ɪ 𝙳 ʜ ⋏ 𝚾 𝗠 ʋ ʂ ɪ 𝛓 ˼ ✧˚.⋆</b></blockquote>\n\n<blockquote>☘ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b> 𝗥 ꭼ 𝚀 ʋ ꭼ ꮪ ꭲ 𝗕 ꮍ :</b> {0}</blockquote>\n\n<blockquote><b>❖ 𝗣 ꮎ ꮃ ꭼ ꭱ ꭼ ꭰ 𝗕  : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
 
 
 CLOSE_BUTTON  : "🥂 ᴄʟᴏsᴇ 🥂"
