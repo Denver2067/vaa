@@ -51,6 +51,10 @@ HEROKU_API_KEY = "HRKU-852706f4-8cba-4108-912f-e6b0f4a788a8"
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
+
+API_URL = getenv("API_URL", 'https://api.nexgenbots.in') #youtube song url
+API_KEY = getenv("API_KEY", '30DxNexGenBotsYwAcdy') # youtube song api key, get it from https://t.me/RahulTC
+
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/cookies2002/Sam",
