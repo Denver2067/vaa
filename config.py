@@ -52,7 +52,7 @@ HEROKU_API_KEY = "HRKU-852706f4-8cba-4108-912f-e6b0f4a788a8"
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 
-API_URL = getenv("API_URL", 'https://www.googleapis.com/youtube/v3/videos?part=snippet&id=JGwWNGJdvx8&key=AIzaSyBluHSbcqPG8TWDJHHzAu8QJW4tYDoj6c4') #youtube song url
+API_URL = getenv("API_URL", 'https://www.googleapis.com/youtube/v3/videos?part=snippet&id=JGwWNGJdvx8&key=API_KEY') #youtube song url
 API_KEY = getenv("API_KEY", 'AIzaSyBluHSbcqPG8TWDJHHzAu8QJW4tYDoj6c4') # youtube song api key, get it from https://t.me/RahulTC
 
 UPSTREAM_REPO = getenv(
