@@ -2,8 +2,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 from config import MONGO_DB_URI
 
-from ..logger import get_logger
-LOGGER = get_logger(__name__)
+from ..logging import LOGGER
 
 LOGGER(__name__).info("Connecting to your Mongo Database...")
 try:
