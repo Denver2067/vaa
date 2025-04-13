@@ -1,7 +1,16 @@
 services:
-  - type: web
-    name: purvi-music
-    env: python
+  - type: worker
+    name: purvi-music-bot
+    runtime: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python3 main.py
-    
+    startCommand: python3 PURVIMUSIC/main.py
+    envVars:
+      - key: API_ID
+        value: 23894001
+      - key: API_HASH
+        value: 16b67a856fa4e07f3f78c43c82b1d1e4
+      - key: BOT_TOKEN
+        value: 8035210092:AAHQ0tFuraM1EjY6v7HUB1Trw7bktG7p9Hc
+      - key: LOGGER_ID
+        value: -1002011723196
+        
