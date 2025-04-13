@@ -2,7 +2,9 @@ from pyrogram import Client
 
 import config
 
-from ..logging import LOGGER
+from ..logger import get_logger
+LOGGER = get_logger(__name__)
+
 
 assistants = []
 assistantids = []
