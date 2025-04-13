@@ -58,5 +58,5 @@ async def init():
     LOGGER("PURVIMUSIC").info("𝗦𝗧𝗢𝗣 𝗣𝗨𝗥𝗩𝗜 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(init())
