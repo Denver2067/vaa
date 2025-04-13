@@ -2,12 +2,16 @@ import os
 from pyrogram import Client, errors
 from pyrogram.enums import ChatMemberStatus, ParseMode
 
-from ..logging import LOGGER
+from ..logger import get_logger
+
+
+
 
 
 class PURVI(Client):
     def __init__(self):
-        LOGGER(__name__).info("Starting Bot...")
+        LOGGER = get_logger(__name__)
+        LOGGER.info("Starting bot...")
 
         super().__init__(
             name="PURVIMUSIC",
