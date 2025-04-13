@@ -1,9 +1,5 @@
 import logging
 
-from ..logger import get_logger
-LOGGER = get_logger(__name__)
-
-
 logging.basicConfig(
     level=logging.INFO,
     format="[%(asctime)s - %(levelname)s] - %(name)s - %(message)s",
