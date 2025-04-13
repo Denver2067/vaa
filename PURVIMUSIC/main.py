@@ -1,5 +1,5 @@
 import asyncio
-from PURVIMUSIC.core.bot import PURVI
+from core.bot import PURVI
 
 bot = PURVI()
 
