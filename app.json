@@ -14,47 +14,47 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "23894001",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "16b67a856fa4e07f3f78c43c82b1d1e4",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8035210092:AAHQ0tFuraM1EjY6v7HUB1Trw7bktG7p9Hc",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://cookies2002boy:cookies2002boy@cluster0.bc2ox.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "7909700698",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @KING_STRING_SESSION_BOT on Telegram.",
-        "value": "",
+        "value": "BQC86fAAXhq04qgwvD0uH_fNLWgwi2HC9EnslGg0HquTu9xZ3CvoGEjAQDT8SppDwYr17B-ZZ-AY9c7nPOsscYlSGb4XWG7BAsFyY2hqZLOwiGndwbA6l6roJ50WCk0qPN6FD5rpatzL9gaYgkyC_tZgss25ZRzPfQulDc_H3tTT7hDj5tYvzu2JSSdhK9vZtEGhDPyobeIUN9QIo3pXuwiMpxeAVC91AY6jVyJtl42k_oalmwywH_SQRIh1oSfrwEHcPp4y3NjCr6xGv2IghhBeQw8qB1LenqEW1jP-OZIGFIMQrsd8NQ48SQNzmPK5w91MZdkUZOv5JPYhovBUsnWfX5LDoQAAAAHSHhobAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
-        "required": false
+        "value": "HRKU-2730c1b9-f96c-493f-8aca-1f94c1cc14e4",
+        "required": true
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
-        "required": false
+        "value": "samo",
+        "required": true
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot or assistant and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1002011723196",
         "required": true
       }
     },
