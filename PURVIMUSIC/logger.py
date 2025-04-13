@@ -1,4 +1,5 @@
-import logging
+from ..logger import LOGGER
+
 
 logging.basicConfig(
     level=logging.INFO,
