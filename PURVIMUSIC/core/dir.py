@@ -1,7 +1,6 @@
 import os
 
-from ..logger import get_logger
-LOGGER = get_logger(__name__)
+from ..logging import LOGGER
 
 
 
