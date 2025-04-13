@@ -2,7 +2,7 @@ import os
 from pyrogram import Client, errors
 from pyrogram.enums import ChatMemberStatus, ParseMode
 
-from ..logging import LOGGER
+from PURVIMUSIC.logger import LOGGER
 
 
 class PURVI(Client):
