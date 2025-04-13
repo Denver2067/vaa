@@ -2,6 +2,8 @@ import os
 from pyrogram import Client, errors
 from pyrogram.enums import ChatMemberStatus, ParseMode
 
+import config
+
 from ..logging import LOGGER
 
 
@@ -10,9 +12,9 @@ class PURVI(Client):
         LOGGER(__name__).info(f"Starting Bot...")
         super().__init__(
             name="PURVIMUSIC",
-            api_id=int(os.getenv("API_ID")),
-            api_hash=os.getenv("API_HASH"),
-            bot_token=os.getenv("BOT_TOKEN"),
+            api_id=config.API_ID,
+            api_hash=config.API_HASH,
+            bot_token=config.BOT_TOKEN,
             in_memory=True,
             max_concurrent_transmissions=7,
         )
