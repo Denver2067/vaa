@@ -14,6 +14,7 @@ pydub
 pycountry
 heroku3
 apscheduler
+gunicorn
 motor 
 numpy
 pillow==9.5.0
