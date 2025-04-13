@@ -1,4 +1,7 @@
-from ..logger import LOGGER
+import logging
+
+def LOGGER(name: str):
+    return logging.getLogger(name)
 
 
 logging.basicConfig(
