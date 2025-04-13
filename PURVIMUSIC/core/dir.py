@@ -1,6 +1,8 @@
 import os
 
-from ..logging import LOGGER
+from ..logger import get_logger
+LOGGER = get_logger(__name__)
+
 
 
 def dirr():
